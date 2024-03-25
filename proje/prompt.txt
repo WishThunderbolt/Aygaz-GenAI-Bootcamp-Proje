@@ -1,0 +1,57 @@
+chatgpt prompt:
+bir ön web geliştiricisi olarak hareket etmenizi istiyorum.
+proje olarak şu araçları kullanarak yeni bir web sitesi kodlayacaksın: ( HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript.)
+Web sitesi mobil uyumlu ve duyarlı olmalıdır.
+Düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümlerini içermelidir.
+HTML, CSS, JavaScript kodlarını ayrı çıktılar olarak vermen önemlidir. ( HTML,CSS, JavaScript kodlarından oluşan 3 ayrı dosya istiyorum.)
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz.
+Yazdığınız kodların hiçbirine açıklama yapmayın.
+
+web sitem bir portfolio galeri websitesi ve burada oyun önerileri paylaşmak istiyorum.
+web sitemde bulunmasını istediğim etiketler: (header, main, nav, section, article, aside, footer) şeklindedir.
+bana bu web sitesini oluşturmamda yardımcı olur musun ?
+
+microsoft copilot designer prompt:
+
+bir portfolio galeri websitesi yapmak ve burada oyun önerileri paylaşmak istiyorum. bana web sitem için görsel içerikler oluşturur musun ?
+
+oyun önerilerinde bulunduğum portfolyo galeri web sitesi için en popüler oyunların görsellerinden oluşan içerikler üretir misin ?
+
+2024 yılı itibariyle oynanan en popüler oyunların olduğu bir film rulosu yapar mısın ?
+
+League of Legends (LOL)
+Fortnite
+Counter-Strike: Global Offensive (CS:GO)
+Dota 2
+PUBG (PlayerUnknown's Battlegrounds)
+Apex Legends
+Valorant
+Minecraft
+Grand Theft Auto V (GTA V)
+World of Warcraft (WoW) 
+oyunlarının görsellerinden oluşan içerikler üret.
+
+League of Legends (LOL)
+Fortnite
+Counter-Strike: Global Offensive (CS:GO)
+Dota 2
+PUBG (PlayerUnknown's Battlegrounds)
+Apex Legends
+Valorant
+Minecraft
+Grand Theft Auto V (GTA V)
+World of Warcraft (WoW)
+oyunlarından oluşan her bir oyun için ayrı birer görsel içerik üretir misin ?
+
+porfolyo galeri bir web sitem var ve sitede oyun önerileri paylaşıyorum. web sitem için bir logo tasarlar mısın ?
+
+porfolyo galeri bir web sitem var ve burada popüler olan oyun önerileri paylaşıyorum. web sitem için bir logo tasarlar mısın ? logo için de bir isim bulabilir misin ?
+
+
+
+google gemini prompt:
+
+şuanda oynanan en popüler oyunlar hangileridir ?
+
+
+

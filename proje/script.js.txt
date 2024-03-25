@@ -1,0 +1,3 @@
+// Buraya JavaScript kodlarınızı ekleyebilirsiniz, örneğin: 
+
+console.log('Merhaba, bu bir JavaScript kodudur.');
